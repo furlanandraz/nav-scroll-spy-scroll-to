@@ -1,0 +1,1 @@
+import { bannerText } from "./js/main.script";
